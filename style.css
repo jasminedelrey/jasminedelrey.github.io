@@ -82,8 +82,8 @@ img {
     align-self: center
     position: absolute;
     border-radius: 50%;
-    border: 15px solid #FFFFFF;
-    width: 240px;
+    border: 8px solid #FFFFFF;
+    width: 200px;
     height: 300px;
 }
 
