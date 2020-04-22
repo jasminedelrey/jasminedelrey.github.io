@@ -83,8 +83,8 @@ img {
     position: absolute;
     border-radius: 50%;
     border: 8px solid #FFFFFF;
-    width: 200px;
-    height: 300px;
+    width: 100%;
+    height: auto;
 }
 
 #intro {
