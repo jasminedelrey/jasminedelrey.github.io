@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color: #D3D3D3;
-    background-color: #000000;
+    color: #2b2b2b;
+    background-color:white;
     margin-top: 2em;
     /*font-size: 2em; */
 }
@@ -65,7 +65,7 @@ a {
 p {
     padding-top: 20px;
     font-family: 'Poppins', serif;
-    color: #D3D3D3;
+    color: #AA767C;
     font-size: 17px
     margin-right: 0px;
     margin-left: 300px;
@@ -83,8 +83,8 @@ img {
     position: absolute;
     border-radius: 50%;
     border: 8px solid #FFFFFF;
-    width: 100%;
-    height: auto
+    width: 100px;
+    height: 100px
 }
 
 #intro {
@@ -96,7 +96,7 @@ img {
 }
 
 #fancy {
-    color: #FFE4B5;
+    color: #FEC196;
 }
 
 span.wave {
