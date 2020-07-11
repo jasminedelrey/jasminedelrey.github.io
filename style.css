@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
 @import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css2?family=Taviraj&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;600&display=swap');
+
 
 
 body {
@@ -12,8 +15,11 @@ body {
     /*font-size: 2em; */
 }
 
-h1, h2, h3 {
-    font-family: 'PT Sans Caption', serif;
+h1 {
+    font-family: 'Dosis', sans-serif;
+}
+h2, h3 {
+    font-family: font-family: 'Dosis', sans-serif;
 }
 
 #navbar > ul {
@@ -60,11 +66,12 @@ a {
     color: #FEC196;
     transition: 0.5s all;
     margin-right: 200px;
+    font-family: 'Dosis', sans-serif;
 }
 
 p {
     padding-top: 20px;
-    font-family: 'Poppins', serif;
+    font-family: 'Dosis', sans-serif;
     color: #2b2b2b;
     font-size: 17px
     margin-right: 0px;
@@ -83,8 +90,8 @@ img {
     position: absolute;
     border-radius: 50%;
     border: 8px solid #FFFFFF;
-    width: 60px;
-    height: 60px
+    width:320px;
+    height: 320px
 }
 
 #intro {
