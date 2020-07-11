@@ -40,7 +40,7 @@ h2, h3 {
 }
 
 #navbar > ul > li:hover > a{     /* animation of underline of underlined tab */
-	color: #AA767C;
+	color: #FEC196;
 }
 
 #navbar > ul > li::before {
@@ -63,7 +63,7 @@ h2, h3 {
 }
 
 a {
-    color: #FEC196;
+    color: #AA767C;
     transition: 0.5s all;
     margin-right: 200px;
     font-family: 'Dosis', sans-serif;
