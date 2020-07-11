@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color: #2b2b2b;
+    color: #AA767C;
     background-color:white;
     margin-top: 2em;
     /*font-size: 2em; */
@@ -34,7 +34,7 @@ h1, h2, h3 {
 }
 
 #navbar > ul > li:hover > a{     /* animation of underline of underlined tab */
-	color: yellow;
+	color: #AA767C;
 }
 
 #navbar > ul > li::before {
@@ -57,7 +57,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #FFFFFF;
+    color: #FEC196;
     transition: 0.5s all;
     margin-right: 200px;
 }
@@ -65,7 +65,7 @@ a {
 p {
     padding-top: 20px;
     font-family: 'Poppins', serif;
-    color: #AA767C;
+    color: #2b2b2b;
     font-size: 17px
     margin-right: 0px;
     margin-left: 300px;
@@ -83,8 +83,8 @@ img {
     position: absolute;
     border-radius: 50%;
     border: 8px solid #FFFFFF;
-    width: 30px;
-    height: 30px
+    width: 60px;
+    height: 60px
 }
 
 #intro {
